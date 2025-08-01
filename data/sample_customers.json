@@ -1,0 +1,26 @@
+[
+  {
+    "customer_id": 1001,
+    "name": "Ali Kaya",
+    "age": 36,
+    "gender": "Male",
+    "country": "Turkey",
+    "membership_level": "Gold"
+  },
+  {
+    "customer_id": 1002,
+    "name": "Zeynep Arslan",
+    "age": 29,
+    "gender": "Female",
+    "country": "Germany",
+    "membership_level": "Silver"
+  },
+  {
+    "customer_id": 1003,
+    "name": "Mehmet Yıldız",
+    "age": 45,
+    "gender": "Male",
+    "country": "USA",
+    "membership_level": "Platinum"
+  }
+]

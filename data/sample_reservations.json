@@ -1,0 +1,29 @@
+[
+  {
+    "reservation_id": 5001,
+    "customer_id": 1001,
+    "check_in": "2025-06-01",
+    "check_out": "2025-06-05",
+    "room_type": "Deluxe",
+    "price": 1800.00,
+    "status": "Completed"
+  },
+  {
+    "reservation_id": 5002,
+    "customer_id": 1002,
+    "check_in": "2025-06-10",
+    "check_out": "2025-06-12",
+    "room_type": "Standard",
+    "price": 800.00,
+    "status": "Cancelled"
+  },
+  {
+    "reservation_id": 5003,
+    "customer_id": 1001,
+    "check_in": "2025-07-01",
+    "check_out": "2025-07-04",
+    "room_type": "Suite",
+    "price": 2500.00,
+    "status": "Completed"
+  }
+]
